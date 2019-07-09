@@ -1,0 +1,21 @@
+{
+  "name": "bluewater5.api",
+  "version": "1.0.0",
+  "description": "Retrofitting Bluewater 5",
+  "dependencies": {
+    "npm": "^6.9.0",
+    "npm-windows-upgrade": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BluewaterMVC/Bluewater.5.git"
+  },
+  "author": "Walter Torres",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/BluewaterMVC/Bluewater.5/issues"
+  },
+  "homepage": "https://github.com/BluewaterMVC/Bluewater.5#readme"
+}
