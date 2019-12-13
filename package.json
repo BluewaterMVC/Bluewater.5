@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Retrofitting Bluewater 5",
   "dependencies": {
-    "npm": "^6.9.0",
+    "npm": "^6.13.4",
     "npm-windows-upgrade": "^6.0.1"
   },
   "devDependencies": {},
